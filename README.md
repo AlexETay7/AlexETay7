@@ -1,11 +1,5 @@
 <p align="center">
   <a href="https://github.com/AlexETay7">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexETay7&theme=radical&border=7F3FBF&background=0D1117" alt="Alex's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AlexETay7">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexETay7&theme=radical" alt="Alex's GitHub Contribution"/>
   </a>
 </p>

@@ -1,16 +1,13 @@
-<p align="center">
-  <a href="https://github.com/AlexETay7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexETay7&theme=radical" alt="Alex's GitHub Contribution"/>
-  </a>
-</p>
+# Hi there! 👋 I'm Alex  
 
-<a> 
-    <a href="https://github.com/AlexETay7"><img alt="Alex's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AlexETay7&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/AlexETay7"><img alt="Alex's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AlexETay7&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+Welcome to my GitHub! I'm a **Computer Science junior at Boise State University**, passionate about building cool projects and solving challenging problems with code.  
 
+## 🔧 What I Do  
+- **Programming Languages / Frameworks**: [Java, JS, TS, Next.js, Angular, C, C#, ASP.NET Core, Python]  
+- **Tools & Technologies**: [Git, Azure DevOps, AWS, Jira, Bamboo]  
+- **Areas of Interest**: [Full Stack Development, Algorithms, Functional Programming]  
 
-![Alex's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexETay7&custom_title=Alex%20T's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
+## 📫 How to Reach Me  
+- **Email**: [alexetaylor7@gmail.com]  
+- **LinkedIn**: [(https://www.linkedin.com/in/alex-e-taylor/)]  
 

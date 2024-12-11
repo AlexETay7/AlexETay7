@@ -9,5 +9,6 @@ Welcome to my GitHub! I'm a **Computer Science junior at Boise State University*
 
 ## 📫 How to Reach Me  
 - **Email**: [alexetaylor7@gmail.com]  
-- **LinkedIn**: [(https://www.linkedin.com/in/alex-e-taylor/)]  
+- **LinkedIn**: [(https://www.linkedin.com/in/alex-e-taylor/)]
+- **Website**: [https://alextaylor.dev]
 
